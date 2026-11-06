@@ -1,21 +1,13 @@
-# Road Coleman Gym
+[Leemeporfi.txt](https://github.com/user-attachments/files/34500698/Leemeporfi.txt)
 
-Sitio web estático desarrollado con HTML, CSS y JavaScript.
+ROAD COLEMAN GYM - INSTRUCCIONES
 
-## Archivos
-- `index.html`: estructura y contenido de la página.
-- `index.css`: estilos y diseño adaptable a celulares y computadores.
-- `index.js`: funcionamiento del formulario de contacto.
-- `README.md`: información del proyecto.
+1. Descargar el archivo ZIP.
+2. Hacer clic derecho sobre el ZIP y seleccionar "Extraer todo".
+3. Abrir la carpeta extraída. Se debe ver index.html, la carpeta css y la carpeta imagenes.
+4. Abrir index.html con Chrome
 
-## Cómo abrirlo
-Abre `index.html` en un navegador. Las imágenes están integradas en el HTML, por lo que no necesitas carpetas adicionales.
+IMPORTANTE: No abrir index.html desde dentro del ZIP ni mover el archivo HTML fuera de su carpeta. Las fotografías se cargan desde la carpeta imagenes y el diseño desde css/estilos.css.
 
-## Publicarlo en GitHub Pages
-1. Crea un repositorio en GitHub.
-2. Sube estos cuatro archivos directamente a la raíz del repositorio.
-3. En el repositorio, entra a **Settings > Pages**.
-4. En **Build and deployment**, selecciona **Deploy from a branch**, elige la rama `main` y la carpeta `/ (root)`.
-5. Guarda y espera a que GitHub Pages publique el sitio.
+El menú CONTÁCTENOS lleva al formulario. Al completar los campos y pulsar ENVIAR DATOS, se abre WhatsApp con el mensaje preparado para el número +57 314 366 5856. La persona debe pulsar Enviar dentro de WhatsApp para entregar el mensaje.
 
-El formulario prepara un mensaje y abre WhatsApp para el número **+57 314 366 5856**. El usuario debe pulsar Enviar en WhatsApp. Esta versión no almacena los datos en una base de datos.
